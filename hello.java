@@ -1,4 +1,4 @@
-public class PrintArray {  
+public class hello {  
     public static void main(String[] args) {  
         //Initialize array  
         int [] arr = new int [] {1, 2, 3, 4, 5};  
